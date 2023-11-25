@@ -1,0 +1,4 @@
+github.com/adoublef/prelude v0.1.9 h1:5XmpbQLjgPFQWpUlb96vHdbxMCHJuNxMb96bLRpGwrI=
+github.com/adoublef/prelude v0.1.9/go.mod h1:0fLtRU1dkp7do+UB7BzgNYUjSgSYmJBT9M11vLDP764=
+github.com/go-chi/chi/v5 v5.0.10 h1:rLz5avzKpjqxrYwXNfmjkrYYXOyLJd37pz53UFHC6vk=
+github.com/go-chi/chi/v5 v5.0.10/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
